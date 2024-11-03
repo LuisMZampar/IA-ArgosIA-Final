@@ -32,6 +32,7 @@ O objetivo do ArgosIA é proporcionar uma experiência de compra altamente perso
 Python 🐍: Para processamento e análise de dados.
 Pandas 🐼: Manipulação de dados e construção de perfis personalizados.
 Machine Learning 🤖: Modelos como Random Forest, SVM e KNN para prever recomendações de produtos com base no perfil de compra.
+
 Transformers (Hugging Face): Para geração e análise de sentimentos em textos personalizados, usando modelos como BERT para entender o feedback e ajustar recomendações.
 
 ------
