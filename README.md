@@ -4,6 +4,12 @@ Link do Youtube:
 
 ------
 
+## Caso tenha curiosidade, conheça também nosso projeto em Java! 🌐👨‍💻
+
+📂 Link do repositório: ArgosAI-Sprint4
+
+------
+
 ## 📖 Descrição do Projeto
 O ArgosIA é uma solução inteligente de recomendação de produtos que captura as preferências do cliente e de seus "remetentes de compra" — ou seja, as pessoas para quem o cliente frequentemente faz compras. O sistema oferece uma experiência de compra personalizada ao sugerir produtos para os perfis do cliente e de seus remetentes, com base em fatores como gênero, idade e histórico de compras.
 
