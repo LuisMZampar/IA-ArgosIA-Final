@@ -6,7 +6,7 @@ Link do Youtube:
 
 ## Caso tenha curiosidade, conheça também nosso projeto em Java! 🌐👨‍💻
 
-📂 Link do repositório: ArgosAI-Sprint4
+📂 Link do repositório: https://github.com/MuriloNogr/ArgosAI-Sprint4.git
 
 ------
 
