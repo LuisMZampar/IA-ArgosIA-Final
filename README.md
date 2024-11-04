@@ -1,6 +1,6 @@
 ## 🎯 ArgosIA - Sistema Inteligente de Recomendação de Produtos
 
-Link do Youtube: 
+Link do Youtube: https://youtu.be/try38zYv3Is?si=kGAOfL6XZSfLnnxb
 
 ------
 
